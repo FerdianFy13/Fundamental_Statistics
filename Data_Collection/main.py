@@ -30,3 +30,5 @@
 # systematics sampling
 # adalah sebuah teknik pengumpulan data berdasarkan interval tertentu dan teknik ini tidak dapat dilakukan bila ditemui adanya pola yang sifatnya konsisten dan sistematis pada data sampling
 # convenience sampling
+# adalah sebuah teknik pengumpulan data yang bisa dibilang asal atau tidak beraturan dan hanya berorientasi pada kemudahan. 
+# teknik ini merupkakan teknik pengumpulan data yang buruk dan sangat rentan terhadap bias.
