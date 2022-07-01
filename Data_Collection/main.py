@@ -8,7 +8,7 @@
 # pendekatan ini sering digunakan dalam bidang stastika, dimana sample yang baik adalah sample yang dapat merepresentasikan populasinya.
 # dibutuhkan teknik sampling yang tepatt untuk mendapatkan sample yang representatif terhadap populasinya
 
-# sampling error adalah perbedaan atau selisih nilai antara data sample dan data populasi  
+# sampling error adalah perbedaan atau selisih nilai antara data sample dan data populasi
 
 # sampling with replacement
 # adalah memungkingkan satu anggota populasi untuk terpilih lebih dari satu kali sebagai anggota sample
